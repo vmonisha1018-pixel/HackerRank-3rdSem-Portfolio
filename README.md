@@ -68,3 +68,7 @@ All five mandatory HackerRank problems were successfully submitted and accepted.
 
 ### 5. Sparse Arrays
 ![Sparse Arrays Accepted Submission](Screenshot%202026-09-23%20090839.png)
+
+## HackerRank 3-Star Badge
+
+![HackerRank Problem Solving 3-Star Badge](Screenshot%202026-09-23%20122919.png)
