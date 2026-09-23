@@ -54,8 +54,17 @@ This repository contains my solutions to the mandatory HackerRank algorithmic pr
 
 All five mandatory HackerRank problems were successfully submitted and accepted.
 
-Screenshots of the accepted submissions are included in this portfolio.
+### 1. Diagonal Difference
+![Diagonal Difference Accepted Submission](Screenshot%202026-09-22%20201855.png)
 
-## Reflection
+### 2. Dynamic Array
+![Dynamic Array Accepted Submission](Screenshot%202026-09-22%20202701.png)
 
-This activity helped me understand how algorithmic problem-solving can be improved by choosing appropriate data structures and analyzing time and space complexity. While solving the problems, I practised working with arrays, nested sequences, strings, comparisons, and frequency mapping. I also learned that an efficient solution is not only about getting the correct output but also about considering how the solution performs as the input size increases. The Dynamic Array problem helped me understand the use of nested lists and bitwise XOR, while Sparse Arrays showed how frequency mapping can avoid unnecessary repeated searching. Time Conversion strengthened my understanding of string manipulation and conditional logic. Compare the Triplets helped me practice simple element-wise comparison and score tracking. Finally, maintaining the solutions in a structured GitHub repository helped me understand the importance of organising and documenting coding work as part of a technical portfolio.
+### 3. Time Conversion
+![Time Conversion Accepted Submission](Screenshot%202026-09-22%20203225.png)
+
+### 4. Compare the Triplets
+![Compare the Triplets Accepted Submission](Screenshot%202026-09-23%20054042.png)
+
+### 5. Sparse Arrays
+![Sparse Arrays Accepted Submission](Screenshot%202026-09-23%20090839.png)
